@@ -1,0 +1,33 @@
+Understanding Triples :
+
+Terminology :
+    (source https://docs.marklogic.com/guide/semantics/intro)
+
+1) RDF :
+    RDF is a data model used to represent facts as a triple made up of a subject, predicate, and an object.
+
+2) RDF Triple :
+    An RDF statement containing an atomic value. Each triple represents a single fact.
+
+3) Subject :
+    A representation of a resource such as a person or an entity. A node in an graph or triple.
+
+4) Predicate :
+    A relationship between two entities.
+
+5) Object :
+    A representation of a resouce value.
+
+6) GRAPH :
+    A set of RDF Triple statements and patterns.
+
+7) Triple Index :
+    An index that indexes triples ingested into MarkLogic to facilitate the execution of SPARQL queries.
+
+8) IRI :
+    An IRI (Internationalized Resource Identifier) is a compact string that is used for uniquely identifying resources in an RDF triple.
+
+9) SPARQL :
+    A query language designed for querying RDF triples.
+
+
