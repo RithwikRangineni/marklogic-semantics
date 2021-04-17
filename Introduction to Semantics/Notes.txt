@@ -1,0 +1,19 @@
+Introduction To Semantics
+
+Semantics : 
+    1) It is the study of meaning.
+    2) It takes about the relationship between two entities/triples.
+    3) The universal framework for semantics is Resource Description Framework(RDF).
+    4) (Triples) are easy to share and easy to combine because each triple is atomic.
+    5) Semantics also has a standard query language as SPARQL. Specifically designed for triples data.
+        
+        Eg : France --isA--> Country
+
+Semantics in Marklogic :
+    1) search doucments along with triples.
+    2) semantic triples are used to create meaningful relationship among content.
+
+    Eg: System A (ID) ----(sameAs)----> System B (ID)
+
+
+

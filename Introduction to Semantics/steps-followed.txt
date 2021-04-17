@@ -1,0 +1,4 @@
+Steps:
+
+1) Create a Forest marklogic-semantics1.
+2) Create a Database marklogic-semantics database and attach a forest marklogic-semantics1.
